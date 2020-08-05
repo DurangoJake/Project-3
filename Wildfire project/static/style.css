@@ -1,0 +1,73 @@
+.wrapper {
+    position: relative;
+    min-height: 100%;
+    padding-bottom: 130px;
+    overflow: auto;
+    
+  }
+.img_cover {
+    
+    background-color: rgb(0, 31, 51, 0.8);
+    color: white;
+    position: relative;
+    margin-bottom: 0;
+    left: 0;
+    right: 0;
+}
+.mtns {
+    position: relative;
+    height: 550px;
+    padding: 20px;
+    margin: 0;
+    background-image: url("20081010-Sneffels-Autumn-Panorama.jpg");
+    text-align: center;
+    font-style: "Times New Roman", Times, serif;
+    background-attachment: fixed;
+    background-position: bottom center;
+    background-size: cover;
+    vertical-align: middle;
+    
+}
+
+
+.mtns h1{
+    text-align: center;
+    font-family: 'Alice', serif;
+    font-weight: 400;
+    font-size: 37px;
+    word-spacing: 4px;
+    margin-top: 455px;
+   
+}
+.mtns h3{
+    
+    text-align: center;
+    font-family: 'Alice', serif;
+    font-weight: 400;
+    font-size: 37px;
+    word-spacing: 4px;
+    margin-bottom: 26px;
+    
+}
+.graphs {
+   margin-top: 25px; 
+   margin-right: 100px;
+   margin-left: 100px;
+}
+.largestFires{
+    
+    margin-top: 35px;
+    margin-right: 80px;
+}
+
+#mapid { height: 1000px; }
+
+h4{
+    text-align: center;
+    font-weight: bolder;
+}
+
+
+
+  
+  
